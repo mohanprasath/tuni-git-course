@@ -1,0 +1,3 @@
+[submodule "advanced-rebase"]
+	path = advanced-rebase
+	url = https://course-gitlab.tuni.fi/git-course/advanced-rebase.git
